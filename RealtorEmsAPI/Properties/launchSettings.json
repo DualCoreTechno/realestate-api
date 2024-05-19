@@ -1,0 +1,33 @@
+﻿{
+  "profiles": {
+    "RealtorEmsAPIs": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": false,
+      //"launchUrl": "swagger",
+      "applicationUrl": "https://localhost:7053;http://localhost:5053",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+
+    //"$schema": "https://json.schemastore.org/launchsettings.json",
+    //"iisSettings": {
+    //  "windowsAuthentication": false,
+    //  "anonymousAuthentication": true,
+    //  "iisExpress": {
+    //    "applicationUrl": "http://localhost:12503",
+    //    "sslPort": 44317
+    //  }
+    //},
+
+    //"IIS Express": {
+    //  "commandName": "IISExpress",
+    //  "launchBrowser": true,
+    //  "launchUrl": "swagger",
+    //  "environmentVariables": {
+    //    "ASPNETCORE_ENVIRONMENT": "Development"
+    //  }
+    //}
+  }
+}
